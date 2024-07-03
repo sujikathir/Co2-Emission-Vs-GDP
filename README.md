@@ -134,3 +134,28 @@ Visualization: A histogram of CO2 emissions per capita for different countries i
 ![](https://github.com/sujikathir/Co2-Emission-Vs-GDP/blob/main/images/4.%20per%20capita.png)
 
 Observation: The USA, with ~18 metric tons per capita, stands out as having significantly higher emissions compared to many other countries.
+
+## Relationship between GPD and CO2 Emissions in USA
+
+1. Visualizing GDP Per Capita Over Time
+   
+Visualization: I plotted GDP per capita over time to observe economic trends:
+
+![](https://github.com/sujikathir/Co2-Emission-Vs-GDP/blob/main/images/5.%20gdp.png)
+
+Trend Analysis: CO2 emissions per capita in the USA have declined over the analyzed period, while GDP per capita has generally increased.
+
+2. Comparing GDP and CO2 Emissions
+
+To compare GDP per capita with CO2 emissions per capita, I ensured the data covered the same time frame.
+
+Visualization: I created a scatter plot to visualize their relationship
+
+![](https://github.com/sujikathir/Co2-Emission-Vs-GDP/blob/main/images/6.%20scatterplot.png)
+
+Relationship Between GDP and CO2 Emissions: The scatter plot and correlation analysis show a weak relationship (correlation coefficient: 0.077), suggesting that economic growth does not directly translate to higher or lower CO2 emissions.
+
+## Conclusion
+
+This analysis provides insights into the relationship between economic growth and environmental impact in the USA. The findings highlight the complexity of balancing economic development with environmental sustainability, emphasizing the need for policies that promote green growth.
+
