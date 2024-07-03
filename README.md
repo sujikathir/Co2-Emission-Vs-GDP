@@ -71,10 +71,6 @@ CO2 emissions are at the forefront of global environmental concerns due to their
 ![](https://github.com/sujikathir/Co2-Emission-Vs-GDP/blob/main/images/1.4.%20projected%20target.png)
 
 
-
-![](https://github.com/sujikathir/Co2-Emission-Vs-GDP/blob/main/images/1.6.%20Policies%20and%20pledges.png)
-
-
 ## Tools and Libraries used in this project
 
 This project utilizes several powerful tools and libraries to perform data analysis and visualization:
@@ -154,6 +150,19 @@ Visualization: I created a scatter plot to visualize their relationship
 ![](https://github.com/sujikathir/Co2-Emission-Vs-GDP/blob/main/images/6.%20scatterplot.png)
 
 Relationship Between GDP and CO2 Emissions: The scatter plot and correlation analysis show a weak relationship (correlation coefficient: 0.077), suggesting that economic growth does not directly translate to higher or lower CO2 emissions.
+
+Why weak correlation?
+
+The points are scattered widely without a clear linear trend. While there seems to be a slight overall positive relationship (CO2 emissions generally increasing as GDP per capita increases), the pattern is not strong or consistent.
+
+### Key observations that indicate a weak correlation:
+
+- Large vertical spread of points at similar GDP levels
+- No clear linear trend
+- Presence of outliers and clusters that don't follow a single pattern
+- Some sections show different or even opposite trends
+
+If there were a strong correlation, we would expect to see a more defined linear pattern with points clustered more tightly around a clear trend line.
 
 ## Conclusion
 
