@@ -59,17 +59,21 @@ CO2 emissions are at the forefront of global environmental concerns due to their
 
 - Extreme Weather: Increased CO2 levels contribute to more frequent and severe weather events, such as hurricanes, droughts, and heatwaves, impacting millions of people annually.
 
--Ecosystem Disruption: Changes in climate disrupt ecosystems, endangering species and reducing biodiversity, which is vital for ecological balance and human livelihoods.
+- Ecosystem Disruption: Changes in climate disrupt ecosystems, endangering species and reducing biodiversity, which is vital for ecological balance and human livelihoods.
 
 ### 3. Policy and International Commitments
 
+- Paris Agreement: The international community, through the Paris Agreement, aims to limit global temperature rise to well below 2 degrees Celsius above pre-industrial levels. This necessitates substantial reductions in CO2 emissions.
+
+- National Policies: Many countries have implemented policies and regulations to reduce emissions, promote renewable energy sources, and improve energy efficiency. These efforts are critical for achieving climate targets and sustainable development goals.
+  
+  
 ![](https://github.com/sujikathir/Co2-Emission-Vs-GDP/blob/main/images/1.4.%20projected%20target.png)
 
-- Paris Agreement: The international community, through the Paris Agreement, aims to limit global temperature rise to well below 2 degrees Celsius above pre-industrial levels. This necessitates substantial reductions in CO2 emissions.
+
 
 ![](https://github.com/sujikathir/Co2-Emission-Vs-GDP/blob/main/images/1.6.%20Policies%20and%20pledges.png)
 
-- National Policies: Many countries have implemented policies and regulations to reduce emissions, promote renewable energy sources, and improve energy efficiency. These efforts are critical for achieving climate targets and sustainable development goals.
 
 ## Tools and Libraries used in this project
 
@@ -107,8 +111,7 @@ To delve deeper, I focused on the "CO2 emissions (metric tons per capita)" indic
 
 Visualization: A line plot showcasing CO2 emissions per capita over the years.
 
-
-![](https://github.com/sujikathir/Co2-Emission-Vs-GDP/blob/main/images/1.%20graph.png)
+![](https://github.com/sujikathir/Co2-Emission-Vs-GDP/blob/main/images/2.%20graph%20Co2%20Emission%20in%20USA.png)
 
 Observation: The trend reveals fluctuations, with periods of both increase and decrease in emissions.
 
